@@ -1,4 +1,4 @@
-                             Water Units Calculator
+                                                  Water Units Calculator
 
  This JavaScript function calculates the number of water units that can be trapped between blocks of varying heights. The function takes an input string of comma-separated block heights and outputs the total number of water units that can be trapped.
 
